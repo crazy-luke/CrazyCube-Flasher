@@ -23,7 +23,7 @@ This project is based on the [NodeMCU PyFlasher](https://github.com/marcelstoer/
 
 
 ## 中文说明
-1.  直接下载安装 dist 目.
+1.  直接下载安装 app 目录下的可执行文件.
 	* Windows 系统下载 CrazyCube-Flasher.exe （win10以上）
 	* Mac 系统下载 CrazyCube-Flasher.dmg
 3. 升级固件
